@@ -1,0 +1,2 @@
+# ChatResource
+GitChat Source Code:
